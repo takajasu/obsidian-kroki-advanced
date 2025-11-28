@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "kroki-advanced",
+	"name": "Advance Kroki Rendering",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A lightweight Obsidian plugin that renders Kroki diagrams.",
+	"author": "takajasu",
+	"authorUrl": "https://github.com/takajasu",
 	"isDesktopOnly": false
 }
